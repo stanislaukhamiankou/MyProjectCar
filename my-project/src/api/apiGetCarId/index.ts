@@ -1,0 +1,1 @@
+export { reqesCarInfo } from './apiGetCarId'

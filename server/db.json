@@ -1,0 +1,147 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "make": "toyota",
+      "model": "rav4",
+      "fuel_type": "petrol",
+      "drive": "front-wheel drive",
+      "cylinders": "4",
+      "min_city_mpg": "11.2 l",
+      "max_city_mpg": "11.3 l",
+      "min_hwy_mpg": "4.5 l",
+      "max_hwy_mpg": "4.6 l",
+      "img": "https://www.wallpaperup.com/uploads/wallpapers/2018/11/24/1302740/373fca2ccf537bc12bc6beac70a365ff.jpg",
+      "size": {
+        "width": "550",
+        "height": "500"
+      }
+    },
+    {
+      "id": 2,
+      "make": "maclaren",
+      "model": "720s",
+      "fuel_type": "petrol",
+      "drive": "rear-wheel drive",
+      "cylinders": "1-770-736-8031 x56442",
+      "min_city_mpg": "15.8 l",
+      "max_city_mpg": "15.9 l",
+      "min_hwy_mpg": "10.7 l",
+      "max_hwy_mpg": "10.8 l",
+      "img": "https://www.crankandpiston.com/media/mclaren-600lt-spider-revealed/McLaren-600LT-Spider-revealed-1.jpg",
+      "size": {
+        "width": "550",
+        "height": "500"
+      }
+    },
+    {
+      "id": 3,
+      "make": "tesla",
+      "model": "model-s",
+      "fuel_type": "electricity",
+      "drive": "all-wheel drive",
+      "cylinders": "0",
+      "min_city_mpg": "16.4 kW",
+      "max_city_mpg": "16.5 kW",
+      "min_hwy_mpg": "12.4 kW",
+      "max_hwy_mpg": "12.5 kW",
+      "img": "https://img5.goodfon.com/wallpaper/nbig/b/59/tesla-model-x-vecher-1.jpg",
+      "size": {
+        "width": "550",
+        "height": "500"
+      }
+    },
+    {
+      "id": 4,
+      "make": "bmw",
+      "model": "m5",
+      "fuel_type": "diesel",
+      "drive": "rear-wheel drive",
+      "cylinders": "4",
+      "min_city_mpg": "8.5 l",
+      "max_city_mpg": "8.6 l",
+      "min_hwy_mpg": "5.8 l",
+      "max_hwy_mpg": "6.2 l",
+      "img": "https://a.d-cd.net/jyAAAgPM4-A-1920.jpg",
+      "size": {
+        "width": "550",
+        "height": "500"
+      }
+    },
+    {
+      "id": 5,
+      "make": "ferrari",
+      "model": "f40",
+      "fuel_type": "petrol",
+      "drive": "rear-wheel drive",
+      "cylinders": "8",
+      "min_city_mpg": "18.4 l",
+      "max_city_mpg": "18.6 l",
+      "min_hwy_mpg": "8.6 l",
+      "max_hwy_mpg": "8.8 l",
+      "img": "https://w-dog.ru/wallpapers/1/6/461069236580354/ferrari-f430-scuderia-stoyanka.jpg",
+      "size": {
+        "width": "550",
+        "height": "500"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Great garage. Cool cars. I liked it all very much. Thanks to the developers of this app."
+    },
+    {
+      "id": 2,
+      "comment": "Cool site"
+    },
+    {
+      "id": 3,
+      "comment": "Thanks to the managers for their help in choosing a battery. Consulted, brought."
+    },
+    {
+      "id": 4,
+      "comment": "Very satisfied with the quality of the goods and the level of service."
+    },
+    {
+      "id": 5,
+      "comment": "Very cool garage, thanks!"
+    },
+    {
+      "id": 6,
+      "comment": "Knowledgeable consultants and great selection!"
+    }
+  ],
+  "users": [
+    {
+      "id": "c8e16622-56e5-43cf-8137-0230c1ca8d4d",
+      "image": "http://placehold.it/32x32",
+      "age": 38,
+      "first_name": "Bernard",
+      "last_name": "Bond",
+      "user_name": "YtStWbkpQ3ui2",
+      "password": "FWep8oC8m9NnZ8",
+      "email": "bernardbond@insectus.com"
+    },
+    {
+      "id": "cbc304b0-b8e7-4291-b455-874d2120ef56",
+      "image": "http://placehold.it/32x32",
+      "age": 33,
+      "first_name": "Peters",
+      "last_name": "Dickson",
+      "user_name": "zF5dkIJ1z84WXG",
+      "password": "rrAXED4bD9If",
+      "email": "petersdickson@insectus.com"
+    },
+    {
+      "id": "1434fa78-1038-4409-a62c-032d60554356",
+      "image": "http://placehold.it/32x32",
+      "age": 25,
+      "first_name": "Angelia",
+      "last_name": "Woodard",
+      "user_name": "QToYaznQzXJNnxuIQ",
+      "password": "ZOrxVTFDGU6ELCGMm",
+      "email": "angeliawoodard@insectus.com"
+    }
+  ]
+}

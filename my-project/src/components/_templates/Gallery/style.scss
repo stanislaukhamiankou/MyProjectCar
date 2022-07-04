@@ -1,0 +1,32 @@
+.gallery-header {
+    font-size: 40px;
+    padding: 150px 0 0 300px;
+}
+
+.gallery-signature {
+    font-size: 20px;
+    width: 300px;
+    padding-left: 5px;
+    border-left: 2px solid #1890ff;
+}
+
+.ticker {
+    margin-top: 102px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      .ticker-item {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        height: 330px;
+        .img-car {
+          max-height: inherit;
+          max-width: inherit;
+          height: 350px;
+          display: inline-block;
+          border: 2px solid black;
+          margin-left: 20px;
+        }
+      }
+}

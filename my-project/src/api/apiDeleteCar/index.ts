@@ -1,0 +1,1 @@
+export { reqesDeleteCar } from './apiDeleteCar'

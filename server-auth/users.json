@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "khomenkovss_1308",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "khomenkovss_1308",
+      "email": "stanislau.khamiankou@leverx.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "email": "goodguytoni@gmail.com",
+      "password": "32532325325",
+      "username": "anton"
+    },
+    {
+      "id": 4,
+      "email": "fdfdsfsd@gmail.com",
+      "password": "3432432432",
+      "username": "anton"
+    },
+    {
+      "id": 5,
+      "email": "fdsfdsf@gmail.com",
+      "password": "5435435435",
+      "username": "anton"
+    },
+    {
+      "id": 7,
+      "email": "aleh@gmail.com",
+      "password": "123456",
+      "username": "aleh"
+    },
+    {
+      "id": 8,
+      "email": "inha@mail.com",
+      "password": "2312312312",
+      "username": "inha"
+    },
+    {
+      "id": 9,
+      "email": "stas@gmail.com",
+      "password": "12343543543",
+      "username": "stas"
+    },
+    {
+      "id": 10,
+      "email": "stanislau.khamiankou@leverx.comdfdf",
+      "password": "123456",
+      "username": "aleh"
+    },
+    {
+      "id": 11,
+      "email": "asdasd@gmail.com",
+      "password": "dsfs234324",
+      "username": "fffffffffffff"
+    },
+    {
+      "id": 12,
+      "email": "dfsssssss@gmail.com",
+      "password": "gfdgfdgfd",
+      "username": "fffffffffffff"
+    },
+    {
+      "id": 13,
+      "email": "dfsdf@gmail.com",
+      "password": "33253252",
+      "username": "dfsdfs"
+    },
+    {
+      "id": 14,
+      "email": "fdsdsf@gmail.com",
+      "password": "434324234",
+      "username": "fsdfdsf"
+    }
+  ]
+}
